@@ -14,4 +14,5 @@ SE-EE 16-17 Section D, Fall '18
 
 ## Contents
 | Lab No. | Description | Tasks |
+|---------| ------------|-------|
 | 01 | Pointers and Structures | [Prelab](./01_points_structs/DSA_1_Pre.pdf), [Postlab](./01_points_structs/DSA_1_Post.pdf)|
