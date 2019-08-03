@@ -22,3 +22,6 @@ SE-EE 16-17 Section D, Fall '18
 | 06 | Array Sorting | [Post-Lab](./06_array_sorting/DSA_6_Post.pdf)|
 | 07 | Stacks and Queues | [Pre-Lab](./07_stacks_queues/DSA_7_Pre.pdf), [Post-Lab](./07_stacks_queues/DSA_7_Post.pdf)|
 | 08 | Recursion | [Pre-Lab](./08_recursion/DSA_8_Pre.pdf), [Post-Lab](./08_recursion/DSA_8_Post.pdf)|
+
+## Complex Engineering Problem (CEP)
+A comprehensive [report on the algorithms used in ride-sharing services](./DSA_Uber_Section_D.pdf) such as Uber and Careem was prepared as an end-of-course CEP-based project.
